@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+## 慕课网获App Store强力推荐 荣登四榜单
 
-You can use the [editor on GitHub](https://github.com/eddie199306/first.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+8月伊始，慕课网App即获得了App Store的多个推荐，同时出现在“免费App精选”、“致毕业生”、“学而不倦”以及“轻松学编程”四个榜单中。这款IT编程学习类的App为何如此备受青睐？趣味视频课程、高清画面质感、在线离线随身学习……优质的课程内容结合良好的用户体验，慕课网App无疑是IT学习的最佳选择。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+App Store因公平著称，能被其推荐是每一款App梦寐以求的荣誉，慕课网则一举占据了其四个榜单，包括精品推荐首页“合集”版块下“免费App精选”中的“新品”推荐、“合集”版块“致毕业生”中“学无止境”推荐、教育类别“合集”版块下“学而不倦”中的推荐以及“轻松学编程”版块推荐。 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eddie199306/first.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
